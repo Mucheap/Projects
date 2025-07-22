@@ -1,0 +1,4 @@
+- name: Reddit r/LearnJapanese
+  url: https://www.reddit.com/r/LearnJapanese/.rss
+- name: StackExchange Japanese
+  url: https://japanese.stackexchange.com/feeds

@@ -1,0 +1,11 @@
+name: Nightly Analytics
+on:
+  schedule:
+    - cron: '0 3 * * *'
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run analytics
+        run: echo "Placeholder for analytics"

@@ -1,0 +1,18 @@
+hiragana:
+  - hiragana
+  - kana
+kanji:
+  - kanji
+  - radicals
+jlpt-n5:
+  - jlpt n5
+  - beginner
+grammar:
+  - grammar
+  - particle
+speaking:
+  - speaking
+  - conversation
+motivation:
+  - motivation
+  - progress

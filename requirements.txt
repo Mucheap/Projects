@@ -1,0 +1,8 @@
+feedparser
+requests
+PyYAML
+scikit-learn
+pandas
+SQLAlchemy
+jinja2
+transformers
