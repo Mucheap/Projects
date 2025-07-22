@@ -1,0 +1,17 @@
+hiragana:
+  tips:
+    - "Remember to practice writing hiragana daily."
+    - "Use flashcards to memorize each kana."
+  free: "https://nihoner.com/free-hiragana-chart"
+  premium_lines:
+    - "For structured lessons, check our premium courses: https://nihoner.com/pricing"
+kanji:
+  tips:
+    - "Break kanji into radicals to make them easier to learn."
+  free: "https://nihoner.com/free-kanji-deck"
+  premium_lines:
+    - "Upgrade for spaced repetition quizzes: https://nihoner.com/pricing"
+grammar:
+  tips:
+    - "Try making short sentences to practice grammar points."
+  free: "https://nihoner.com/free-grammar-guide"
